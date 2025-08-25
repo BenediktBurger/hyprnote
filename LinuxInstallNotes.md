@@ -11,7 +11,7 @@ For some information see *CONTRIBUTING.md*.
 curl https://sh.rustup.rs -sSf | sh
 
 # system dependencies for tauri
-sudo apt install libwebkit2gtk-4.1-dev libayatana-appindicator3-dev librsvg2-dev patchel libclang-dev libxss-dev
+sudo apt install libwebkit2gtk-4.1-dev libayatana-appindicator3-dev librsvg2-dev patchelf libclang-dev libxss-dev
 
 # for sound
 sudo apt install libasound2-dev
